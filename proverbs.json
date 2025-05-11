@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "textDari": "هرکه طلا دارد، سخن‌اش را شنوا باشند.",
+    "textPashto": "چا سره چې سره زر وي، خبره یې اورېدل کېږي.",
+    "translationEn": "He who has gold, his words are heard.",
+    "meaning": "کسی که دارایی یا نفوذ دارد، حرف‌اش هم باارزش تلقی می‌شود.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "هر که بامش بیش، برفش بیشتر.",
+    "textPashto": "چا چې بام لوی وي، واوره یې زیاته وي.",
+    "translationEn": "He who has a bigger roof gets more snow.",
+    "meaning": "مسئولیت بیشتر با دارایی بیشتر همراه است.",
+    "category": "advice"
+  }
+]
